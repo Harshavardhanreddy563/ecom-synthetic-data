@@ -68,7 +68,7 @@ ORDER BY revenue DESC;
 ```
 
 ## License
-MIT
+Harshavardhanreddy
 
 ## Notes
 - This project is intended for demo and learning. Replace the CSVs with larger/generated datasets for more realistic testing.
