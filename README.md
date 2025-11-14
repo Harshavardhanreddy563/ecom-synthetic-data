@@ -70,6 +70,3 @@ ORDER BY revenue DESC;
 ## License
 Harshavardhanreddy
 
-## Notes
-- This project is intended for demo and learning. Replace the CSVs with larger/generated datasets for more realistic testing.
-- The `ingest_csvs_to_sqlite.py` script uses `INSERT OR REPLACE` to avoid duplicates when re-running.
