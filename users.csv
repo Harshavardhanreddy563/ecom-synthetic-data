@@ -1,0 +1,9 @@
+user_id,first_name,last_name,email,signup_date,country
+1,Arjun,Das,arjun.das@example.com,2024-07-01,India
+2,Sana,Khan,sana.khan@example.com,2024-08-15,India
+3,Rahul,Patel,rahul.patel@example.com,2024-09-02,India
+4,Meera,Iyer,meera.iyer@example.com,2024-06-10,India
+5,Asha,Nair,asha.nair@example.com,2024-10-20,India
+6,Tom,White,tom.white@example.com,2024-05-08,USA
+7,Lina,Chen,lina.chen@example.com,2024-11-11,Singapore
+8,Deepak,Sharma,deepak.sharma@example.com,2024-09-22,India

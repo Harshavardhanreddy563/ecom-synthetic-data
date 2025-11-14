@@ -1,0 +1,10 @@
+order_id,user_id,order_date,status,total_amount
+101,1,2024-11-01,delivered,498.00
+102,2,2024-11-03,shipped,448.00
+103,1,2024-11-05,placed,149.00
+104,3,2024-11-07,delivered,698.00
+105,4,2024-11-10,refunded,299.00
+106,5,2024-11-12,delivered,399.00
+107,6,2024-11-13,delivered,249.00
+108,7,2024-11-14,placed,788.00
+109,8,2024-11-14,shipped,199.00
